@@ -314,12 +314,6 @@
             "acceptance testing",
             "functional testing",
             "unit testing"
-        ],
-        "funding": [
-            {
-                "url": "https://opencollective.com/codeception",
-                "type": "open_collective"
-            }
         ]
     },
     {
@@ -759,20 +753,6 @@
         "keywords": [
             "constructor",
             "instantiate"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Finstantiator",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -837,20 +817,6 @@
             "lexer",
             "parser",
             "php"
-        ],
-        "funding": [
-            {
-                "url": "https://www.doctrine-project.org/sponsorship.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://www.patreon.com/phpdoctrine",
-                "type": "patreon"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/doctrine%2Flexer",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -911,12 +877,6 @@
             "emailvalidator",
             "validation",
             "validator"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/egulias",
-                "type": "github"
-            }
         ]
     },
     {
@@ -1142,12 +1102,6 @@
             "duplicate",
             "object",
             "object graph"
-        ],
-        "funding": [
-            {
-                "url": "https://tidelift.com/funding/github/packagist/myclabs/deep-copy",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -1640,12 +1594,6 @@
             "coverage",
             "testing",
             "xunit"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -1698,12 +1646,6 @@
         "keywords": [
             "filesystem",
             "iterator"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -1798,12 +1740,6 @@
         "homepage": "https://github.com/sebastianbergmann/php-timer/",
         "keywords": [
             "timer"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -1855,12 +1791,6 @@
         "homepage": "https://github.com/sebastianbergmann/php-token-stream/",
         "keywords": [
             "tokenizer"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ],
         "abandoned": true
     },
@@ -1947,16 +1877,6 @@
             "phpunit",
             "testing",
             "xunit"
-        ],
-        "funding": [
-            {
-                "url": "https://phpunit.de/donate.html",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2197,13 +2117,7 @@
             }
         ],
         "description": "Looks up which function or method a line of code belongs to",
-        "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "https://github.com/sebastianbergmann/code-unit-reverse-lookup/"
     },
     {
         "name": "sebastian/comparator",
@@ -2269,12 +2183,6 @@
             "comparator",
             "compare",
             "equality"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2333,12 +2241,6 @@
             "udiff",
             "unidiff",
             "unified diff"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2394,12 +2296,6 @@
             "Xdebug",
             "environment",
             "hhvm"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2469,12 +2365,6 @@
         "keywords": [
             "export",
             "exporter"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2531,12 +2421,6 @@
         "homepage": "http://www.github.com/sebastianbergmann/global-state",
         "keywords": [
             "global state"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
         ]
     },
     {
@@ -2586,13 +2470,7 @@
             }
         ],
         "description": "Traverses array structures and object graphs to enumerate all referenced objects",
-        "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "https://github.com/sebastianbergmann/object-enumerator/"
     },
     {
         "name": "sebastian/object-reflector",
@@ -2639,13 +2517,7 @@
             }
         ],
         "description": "Allows reflection of object attributes, including inherited and non-public ones",
-        "homepage": "https://github.com/sebastianbergmann/object-reflector/",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "https://github.com/sebastianbergmann/object-reflector/"
     },
     {
         "name": "sebastian/recursion-context",
@@ -2700,13 +2572,7 @@
             }
         ],
         "description": "Provides functionality to recursively process PHP variables",
-        "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "http://www.github.com/sebastianbergmann/recursion-context"
     },
     {
         "name": "sebastian/resource-operations",
@@ -2750,13 +2616,7 @@
             }
         ],
         "description": "Provides a list of PHP built-in functions that operate on resources",
-        "homepage": "https://www.github.com/sebastianbergmann/resource-operations",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "https://www.github.com/sebastianbergmann/resource-operations"
     },
     {
         "name": "sebastian/type",
@@ -2804,13 +2664,7 @@
             }
         ],
         "description": "Collection of value objects that represent the types of the PHP type system",
-        "homepage": "https://github.com/sebastianbergmann/type",
-        "funding": [
-            {
-                "url": "https://github.com/sebastianbergmann",
-                "type": "github"
-            }
-        ]
+        "homepage": "https://github.com/sebastianbergmann/type"
     },
     {
         "name": "sebastian/version",
@@ -2918,16 +2772,6 @@
             "email",
             "mail",
             "mailer"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/swiftmailer/swiftmailer",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3069,20 +2913,6 @@
             "command line",
             "console",
             "terminal"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3133,21 +2963,7 @@
             }
         ],
         "description": "Converts CSS selectors to XPath expressions",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/deprecation-contracts",
@@ -3199,21 +3015,7 @@
             }
         ],
         "description": "A generic function and convention to trigger deprecation notices",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/dom-crawler",
@@ -3271,21 +3073,7 @@
             }
         ],
         "description": "Eases DOM navigation for HTML and XML documents",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/event-dispatcher",
@@ -3355,21 +3143,7 @@
             }
         ],
         "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/event-dispatcher-contracts",
@@ -3433,20 +3207,6 @@
             "interfaces",
             "interoperability",
             "standards"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3493,21 +3253,7 @@
             }
         ],
         "description": "Finds files and directories via an intuitive fluent interface",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "symfony/polyfill-ctype",
@@ -3571,20 +3317,6 @@
             "ctype",
             "polyfill",
             "portable"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3650,20 +3382,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3730,20 +3448,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3816,20 +3520,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3899,20 +3589,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -3978,20 +3654,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4053,20 +3715,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4131,20 +3779,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4213,20 +3847,6 @@
             "polyfill",
             "portable",
             "shim"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4291,20 +3911,6 @@
             "interfaces",
             "interoperability",
             "standards"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4373,20 +3979,6 @@
             "unicode",
             "utf-8",
             "utf8"
-        ],
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4447,21 +4039,7 @@
             }
         ],
         "description": "Loads and dumps YAML files",
-        "homepage": "https://symfony.com",
-        "funding": [
-            {
-                "url": "https://symfony.com/sponsor",
-                "type": "custom"
-            },
-            {
-                "url": "https://github.com/fabpot",
-                "type": "github"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                "type": "tidelift"
-            }
-        ]
+        "homepage": "https://symfony.com"
     },
     {
         "name": "theseer/tokenizer",
@@ -4503,13 +4081,7 @@
                 "role": "Developer"
             }
         ],
-        "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
-        "funding": [
-            {
-                "url": "https://github.com/theseer",
-                "type": "github"
-            }
-        ]
+        "description": "A small library for converting tokenized PHP source code into XML and potentially other formats"
     },
     {
         "name": "webmozart/assert",
@@ -4662,20 +4234,6 @@
         "keywords": [
             "framework",
             "yii2"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/yiisoft",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/yiisoft",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/yiisoft/yii2",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4798,20 +4356,6 @@
             "composer",
             "extension installer",
             "yii2"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/yiisoft",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/yiisoft",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/yiisoft/yii2-composer",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4883,20 +4427,6 @@
             "debug",
             "debugger",
             "yii2"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/yiisoft",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/yiisoft",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/yiisoft/yii2-debug",
-                "type": "tidelift"
-            }
         ]
     },
     {
@@ -4960,20 +4490,6 @@
             "Fixture",
             "faker",
             "yii2"
-        ],
-        "funding": [
-            {
-                "url": "https://github.com/yiisoft",
-                "type": "github"
-            },
-            {
-                "url": "https://opencollective.com/yiisoft",
-                "type": "open_collective"
-            },
-            {
-                "url": "https://tidelift.com/funding/github/packagist/yiisoft/yii2-faker",
-                "type": "tidelift"
-            }
         ]
     },
     {

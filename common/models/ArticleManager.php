@@ -31,7 +31,7 @@ class ArticleManager extends Model
             $article->title = $this->title;
             $article->img   = $name;
             $article->text  = $this->text;
-            $article->text .= "\n" . date("Y m j G:i", time()) . "\n";
+            $article->text .= "\n" . date("Y-m-j G:i", time()) . "\n";
             $article->descr = $this->descr;
             if ($article->save())
                 return Yii::$app->db->getLastInsertID();
@@ -39,12 +39,17 @@ class ArticleManager extends Model
         return false;
     }
 
-    public function update($update)
+    public function update()
     {
-        $article = Articles::findOne(['id' => $this->id]);
-        $article->$update = $this->$update;
-        if ($article->save())
-            return true;
+        if ($this->title != '' && $this->descr != '' && $this->text != '') {
+            $article = Articles::findOne(['id' => $this->id]);
+            $article->title = $this->title;
+            $article->descr = $this->descr;
+            $article->text  = $this->text;
+            $article->text .= "\nОбновлено " . date("Y-m-j G:i", time()) . "\n";
+            if ($article->save())
+                return true;
+        }
         return false;
     }
 
